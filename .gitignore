@@ -1,5 +1,5 @@
 .env 
 .python-version
 .DS_Store
-tax.docx
+*.docx
 chroma/
